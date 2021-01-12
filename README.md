@@ -19,7 +19,7 @@ HYU CSE4007
  ### 환경
  > - 프로그래밍 언어 : python 3.5
  >- OS : windows 10
- 
+ ---------------------------
  ## 2. Hierarchical Clustering
   Hierarchical Agglomerative Clustering 기법을 이용하여 좌표평면상의 점들을 clustering 한다.
   ### 세부 사항
